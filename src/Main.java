@@ -87,7 +87,7 @@ public class Main {
         System.out.println("Введите колличество сообщений : ");
         int amountLetter = scanner.nextInt();
 
-        System.out.println("Привет, " + fullName + "! Это твой помощник Майкл.\n" +
+        System.out.println("Привет, " + fullName + "! Это твой помощник " + nameAssistant + ".\n" +
                 "\n" +
                 "У тебя " + amountLetter + " новых писем");
     }
