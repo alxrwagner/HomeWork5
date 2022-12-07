@@ -73,7 +73,7 @@ public class Main {
         System.out.print("Введите год: ");
         int year = scanner.nextInt();
 
-        System.out.println(day + ":" + month + ":" + year + ":");
+        System.out.println(day + ":" + month + ":" + year);
     }
 
     public static void task7(){
